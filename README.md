@@ -1,5 +1,6 @@
 # Oasis-Infobyte-Python-Internship
 Python programming projects completed as part of Oasis Infobyte virtual internship
+
 #Task 1: BMI Calculator
 Description: Command-line Python program that calculates BMI and classifies it into health categories.
 
