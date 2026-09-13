@@ -24,3 +24,16 @@ Enter your height (m): 1.7
 
 Your BMI is: 26.99
 Category: Overweight
+
+#Task 2: Random Password Generator
+
+**Description:** Command-line Python program that generates strong random passwords based on user-selected criteria (length, character types).
+
+**Sample Run:*
+Enter desired password length (minimum 8): 12
+Include uppercase letters? (y/n): y
+Include lowercase letters? (y/n): y
+Include numbers? (y/n): y
+Include symbols? (y/n): n
+
+Generated Password: Kj8mNpQr2xYz
