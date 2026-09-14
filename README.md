@@ -1,7 +1,7 @@
 # Oasis-Infobyte-Python-Internship
 Python programming projects completed as part of Oasis Infobyte virtual internship
 
-#Task 1: BMI Calculator
+#TASK - 1: BMI Calculator
 Description: Command-line Python program that calculates BMI and classifies it into health categories.
 
 *Sample Run 1 (Normal):
@@ -25,7 +25,7 @@ Enter your height (m): 1.7
 Your BMI is: 26.99
 Category: Overweight
 
-#Task 2: Random Password Generator
+#TASK - 2: Random Password Generator
 
 **Description:** Command-line Python program that generates strong random passwords based on user-selected criteria (length, character types).
 
@@ -37,3 +37,17 @@ Include numbers? (y/n): y
 Include symbols? (y/n): n
 
 Generated Password: Kj8mNpQr2xYz
+
+
+## Task 3: Chat Application
+
+**Description:** Command-line chat simulation between two users with timestamped messages. Tracks chat history and message count, and displays the full conversation log on request. Type "bye" to end the conversation.
+
+**Sample Run:**
+[14:35] User1: Hi there!  
+[14:35] User2: Hello! How are you?  
+[14:36] User1: bye  
+User1 has left the chat.  
+
+
+Chat ended. Total messages exchanged: 1
